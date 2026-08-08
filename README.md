@@ -18,7 +18,7 @@ This task involved capturing network traffic generated while interacting with a 
 This task provided practical experience in network packet capture and analysis and helped in understanding how packet analysis can be used for network monitoring and security analysis.
 
 ## Full Report
-**[View Internship Report](./Task%203.pdf)**
+**[Task Report](./Task%203.pdf)**
 
 ## Disclaimer
 All security testing and packet analysis documented in this task was performed within an authorized and controlled testing environment for educational and cybersecurity training purposes.
